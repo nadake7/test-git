@@ -1,2 +1,4 @@
 Add branch 1
 branch 1 code
+branch 2
+br 2 code
